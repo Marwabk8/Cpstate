@@ -1,0 +1,16 @@
+.item{
+  justify-content: center;
+  background-color: gray;
+  width: 30%;
+  padding: 10px;
+  border: 2px solid black
+  
+}
+
+.buton{
+  border: 2px solid black;
+  width: 32%;
+  padding: 10px;
+  background-color: lightgray;
+}
+
